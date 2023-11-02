@@ -1,0 +1,9 @@
+funcion resta_numeros ( entero x , entero y ) {
+    entero resultado = 4 + 2;
+    impresor resultado;
+}
+Inicio {
+    entero a = 6;
+    entero b = 41;
+}
+Fin
